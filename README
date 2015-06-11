@@ -1,1 +1,9 @@
 Clone WordPress website all files/folders including database to a new folder on the same server and fix the permissions as well.
+
+#What needs to be configured first
+root_directory -- Points to the server root path, not including the current wordpress installation
+wp_directory -- The folder name of the current wordpress installation that you want to clone
+wp_clone_directory_name -- The folder name of the clone version, assumed to be under the roor directory
+
+#Keep in mind
+This script has not been fully tested, and I do not bring any responsibility for any harm that it may caused.
