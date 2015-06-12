@@ -7,3 +7,6 @@ wp_clone_directory_name -- The folder name of the clone version, assumed to be u
 
 #Keep in mind
 This script has not been fully tested, and I do not bring any responsibility for any harm that it may caused.
+
+For the improved wordpress plugin version of this script click below:
+https://github.com/achristodoulou/wp-clone-plugin
